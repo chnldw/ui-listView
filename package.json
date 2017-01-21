@@ -2,6 +2,10 @@
   "name": "ui-listView",
   "version": "0.0.2",
   "description": "An efficient list view for angular.",
+  "main": [
+    "dist/ui-listView.js",
+    "dist/ui-listView.css"
+  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/StevenLambion/ui-listView.git"
